@@ -22,7 +22,7 @@
     font-size: 45px;
     line-height: 60px;
 }
-.course-data h3{
+.course-data h5{
     font-weight: 600;
     font-size: 25px;
     line-height: 38px;
@@ -33,12 +33,6 @@
     font-size: 16px;
     line-height: 24px;
     color: #777777;
-}
-.course-data h4{
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 27px;
-    color: #289BDE;
 }
 /* course data end */
 /* Explore Institute start */
@@ -66,3 +60,13 @@
     color: #777777;
 }
 /* Explore Institute end */
+.register-btn{
+    background-color: #F4F4F4;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #289BDE;
+}
