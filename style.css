@@ -10,37 +10,10 @@ body{
     font-size: 60px;
     line-height: 85px;
 }
-.carousel-caption p{
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 30px;
-    color: #F4F4F4;
-}
 /* carousel caption data end */
 /* course data start */
 .course-exlore-section{
     background: #F4FAFD;
-}
-.course h2{
-    color: #1D1D1D;
-    font-weight: 600;
-    font-size: 45px;
-    line-height: 60px;
-}
-.course p{
-    color: #777777;
-}
-.course-data h5{
-    font-weight: 600;
-    font-size: 25px;
-    line-height: 38px;
-    color: #4A4A4A;
-}
-.course-data p{
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    color: #777777;
 }
 /* course data end */
 /* Explore Institute start */
@@ -49,23 +22,6 @@ body{
     font-size: 45px;
     line-height: 60px;
     color: #1D1D1D;
-}
-.institute p{
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 30px;
-    color: #777777;
-}
-.course-review h2{
-    font-weight: 600;
-    font-size: 45px;
-    line-height: 60px;
-    color: #1D1D1D;
-}
-.course-review p{
-    font-weight: 500;
-    font-size: 16px;
-    color: #777777;
 }
 /* Explore Institute end */
 .register-btn{
