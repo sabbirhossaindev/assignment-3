@@ -1,0 +1,14 @@
+
+/* carousel caption data start */
+.carousel-caption h1{
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 85px;
+}
+.carousel-caption p{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #F4F4F4;
+}
+/* carousel caption data end */
