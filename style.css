@@ -1,4 +1,9 @@
+/* font link */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Sans:wght@300&family=Poppins:ital,wght@0,500;1,500&family=Shadows+Into+Light&family=Yellowtail&display=swap');
 
+body{
+    font-family: 'Poppins', sans-serif;
+}
 /* carousel caption data start */
 .carousel-caption h1{
     font-weight: 600;
@@ -21,6 +26,9 @@
     font-weight: 600;
     font-size: 45px;
     line-height: 60px;
+}
+.course p{
+    color: #777777;
 }
 .course-data h5{
     font-weight: 600;
